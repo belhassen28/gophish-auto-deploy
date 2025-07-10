@@ -1,0 +1,9 @@
+
+
+- **Logging**: Logs GoPhish output to `gophish.log`.
+- **Manual Challenge**: You’ll need to copy DNS TXT records for the Certbot DNS-01 challenge unless automation is implemented.
+- **Automation Add-ons**: You can integrate with `certbot-dns-namecheap` or build your own plugin for full Certbot automation.
+
+---
+
+Would you like a version of this script pre-integrated with **dynamic DNS API** using `certbot-dns-namecheap` or a different provider?
