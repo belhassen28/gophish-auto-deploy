@@ -1,0 +1,3 @@
+DOMAIN = "your.domain.com"
+EMAIL = "admin@your.domain.com"
+USE_NAMECHEAP = False
